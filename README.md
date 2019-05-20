@@ -1,5 +1,9 @@
 # Android-Java-Retrofit-GoogleMaps-MVVM
 
+
+![](image/app.gif)
+
+
 Android Coding Challenge:
 
 Create an Android application with 3 buttons along the top of the screen that can do the 3 parts outlined below:
