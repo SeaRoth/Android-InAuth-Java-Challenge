@@ -1,5 +1,7 @@
 # Android-Java-Retrofit-MVVM
 
+After the first round of interviews I was asked to build this small Java project.
+
 
 ![](image/app.gif)
 
