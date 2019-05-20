@@ -1,7 +1,9 @@
 # Android-Java-Retrofit-MVVM
 
-After the first round of interviews I was asked to build this small Java project.
-
+After the first round of interviews I was asked to build this small Java project from Friday to Sunday night. This app does three things: 
+1. Makes an API request and displays the results in a RecyclerView
+2. Makes a GPS location request and displays the approximate distance from the phone to San Fran
+3. Lists the currently installed apps and their respective names and data/cache/apk sizes
 
 ![](image/app.gif)
 
